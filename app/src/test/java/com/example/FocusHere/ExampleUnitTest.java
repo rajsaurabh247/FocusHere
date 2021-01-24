@@ -1,4 +1,4 @@
-package com.example.eyestracker;
+package com.example.FocusHere;
 
 import org.junit.Test;
 
